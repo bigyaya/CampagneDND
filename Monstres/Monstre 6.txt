@@ -1,0 +1,30 @@
+
+Halaster Blackcloak
+[ Halaster Blackcloak ]
+Humanoïde (humain) de taille M, chaotique mauvais
+Classe d'armure 14 (17 avec armure de mage)
+Points de vie 246 (29d8 + 116)
+Vitesse 9 m
+FOR
+10 (+0)DEX
+18 (+4)CON
+18 (+4)INT
+24 (+7)SAG
+18 (+4)CHA
+18 (+4)
+Jets de sauvegarde Int + 14, Sag + 11
+Compétences Arcanes +21, Histoire +21, Perception +11
+Résistances aux dégâts feu et foudre (conférée par le sceptre d'explosions)
+Sens vision dans le noir 36 m, Perception passive 21
+Langues abyssal, céleste, commun, draconique, nain, elfique, infernal, commun des profondeurs
+Puissance 23 (50000 PX)
+Équipement spécial.
+Incantation.
+Reconstitution.
+Résistance légendaire (3/jour).
+Restauration magique (1/jour).
+Actions
+Sceptre d'explosions.
+Actions légendaires
+Lancer un sort.
+Sort de préservation (coûte 2 actions).
