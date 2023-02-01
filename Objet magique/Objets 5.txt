@@ -1,5 +1,5 @@
 
-Bouclier d'attraction des projectiles
+Bouclier d'attraction des projectiles quantique
 [ Shield of Missile Attraction ]
 Armure (bouclier), rare (nécessite un lien)
 Tant que vous tenez ce bouclier, vous avez la résistance aux dégâts des attaques à distance avec une arme.
