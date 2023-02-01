@@ -3,7 +3,7 @@
 
 
 
-Drakéide de Tiamat
+DrakéideBot de Tiamat
 [ Dragonborn of Tiamat ]
 Humanoïde de taille G, typiquement chaotique mauvais
 Classe d'armure 18 (harnois)

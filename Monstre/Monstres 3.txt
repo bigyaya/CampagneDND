@@ -1,6 +1,6 @@
 
 
-Cyclope
+Cyclope 2.0
 [ Cyclops ]
 Géant de taille TG, chaotique neutre
 Classe d'armure 14 (armure naturelle)
